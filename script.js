@@ -1,3 +1,3 @@
-document.getElementById("show-message-button").addEventListener("click",function() {
+document.getElementById("clickMe").addEventListener("click",function() {
   console.log("WOoHoooo!! You clicked the button!!!");
 })

@@ -1,11 +1,16 @@
-body {
+
+.container body {
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 20px;
       background-color: black;
 }
-h1 {
+.container h1 {
   text-align: center;
   color:white;
 }
-p {
+.container p {
   text-align: center;
   color: white;
 }
